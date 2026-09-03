@@ -72,7 +72,7 @@ Validation set metrics reported in the official Project Detailed Report (PDR):
 | **AFL** | Atrial Flutter | 0.83 | 0.81 | **0.82** |
 | **RBBB** | Right Bundle Branch Block | 0.72 | 0.73 | **0.73** |
 | **LBBB** | Left Bundle Branch Block | 0.69 | 0.74 | **0.71** |
-| **Average** | **Macro Average** | **0.80** | **0.80** | **0.768** |
+| **Average** | **Macro Average** | **0.80** | **0.80** | **0.768 (with "Unknown")** |
 
 ### Confusion Matrix
 ```
