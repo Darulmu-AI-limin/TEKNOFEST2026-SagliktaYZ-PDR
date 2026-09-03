@@ -299,6 +299,7 @@ For clinical transparency, the platform incorporates interpretability methods:
 ## 📂 Project Directory Structure
 
 ```bash
+├── EKG-Tarayici_PDR.pdf   # Project Detail Report
 ├── augment.py             # Data augmentation routines (Noise, Baseline Wander, Scale, Shift)
 ├── dataset.py             # HDF5-backed high-throughput PyTorch Dataset
 ├── decision.py            # Temperature scaling, threshold sweep & Safe-Fail rejection logic
