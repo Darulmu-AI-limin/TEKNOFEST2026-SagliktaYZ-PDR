@@ -321,7 +321,6 @@ Klinik kararların hekim tarafından denetlenebilmesi için CBAM ve Transformer 
 ├── decision.py            # Temperature scaling, eşik taraması ve Safe-Fail karar mantığı
 ├── evaluate.py            # Değerlendirme metrikleri (Macro-F1, ROC-AUC, MCC, Confusion Matrix)
 ├── explainability.py      # Attention Rollout ve açıklanabilirlik fonksiyonları
-├── genelsema.txt          # Sistem mimarisi ve teknik dokümantasyon
 ├── hdf5_builder.py        # WFDB/PhysioNet ham verilerini HDF5'e dönüştürme scripti
 ├── loss.py                # Sınıf ağırlıklı Asymmetric Loss (ASL) implementasyonu
 ├── model.py               # Hibrit ResNet-1D + CBAM + Transformer mimarisi
