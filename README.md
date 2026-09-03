@@ -85,7 +85,7 @@ Modelin doğrulama kümesinde elde ettiği genel metrikler:
 | **AFL** | Atriyal Flutter | 0.83 | 0.81 | **0.82** |
 | **RBBB** | Sağ Dal Bloğu (Right Bundle Branch Block) | 0.72 | 0.73 | **0.73** |
 | **LBBB** | Sol Dal Bloğu (Left Bundle Branch Block) | 0.69 | 0.74 | **0.71** |
-| **Ortalama** | **Macro Average** | **0.80** | **0.80** | **0.768 ("Unknown ile birlikte")** |
+| **Ortalama** | **Macro Average** | **0.80** | **0.80** | **0.768 ("Unknown" ile birlikte)** |
 
 ### Karışıklık Matrisi (Confusion Matrix)
 ```
