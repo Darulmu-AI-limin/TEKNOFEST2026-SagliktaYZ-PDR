@@ -326,7 +326,6 @@ Klinik kararların hekim tarafından denetlenebilmesi için CBAM ve Transformer 
 ├── loss.py                # Sınıf ağırlıklı Asymmetric Loss (ASL) implementasyonu
 ├── model.py               # Hibrit ResNet-1D + CBAM + Transformer mimarisi
 ├── preprocess.py          # Bandpass (0.5-45Hz), Notch (50Hz), Z-score filtreleme
-├── rapor_kaynaklar.txt    # Hesaplama kaynakları ve PDR rapor taslakları
 ├── train.py               # Pretraining ve Finetuning eğitim boru hattı
 ├── README.md              # Türkçe dokümantasyon
 └── README_EN.md           # İngilizce dokümantasyon
