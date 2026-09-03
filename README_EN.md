@@ -304,12 +304,10 @@ For clinical transparency, the platform incorporates interpretability methods:
 ├── decision.py            # Temperature scaling, threshold sweep & Safe-Fail rejection logic
 ├── evaluate.py            # Metric evaluation suite (Macro-F1, ROC-AUC, MCC, Confusion Matrix)
 ├── explainability.py      # Attention Rollout & model interpretability module
-├── genelsema.txt          # Architectural design specifications & schema notes
 ├── hdf5_builder.py        # WFDB / PhysioNet raw data ingestion and HDF5 generator
 ├── loss.py                # Class-weighted Asymmetric Loss (ASL) module
 ├── model.py               # Hybrid ResNet-1D + CBAM + Transformer architecture
 ├── preprocess.py          # Bandpass (0.5-45Hz), Notch (50Hz), Z-score filtering
-├── rapor_kaynaklar.txt    # Compute metrics, hardware details & PDR report notes
 ├── train.py               # Pretraining and fine-tuning execution pipeline
 ├── README.md              # Turkish documentation
 └── README_EN.md           # English documentation
