@@ -1,0 +1,33 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large HDF5 cache and raw data
+*.h5
+*.hdf5
+pretrain_cache.h5
+finetune_cache.h5
+
+# Model Checkpoints (Upload via GitHub Releases instead)
+*.pth
+*.pt
+*.onnx
+
+# Environment & Virtualenv
+venv/
+env/
+.env
+
+# Competition Specs & Internal Drafts
+2026-_Sağlıkta_Yapay_Zeka_Türkçe_Şartname*
+2026_PDR_Şablon*
+genelsema.txt
+rapor_kaynaklar.txt
+*copy*.md
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
