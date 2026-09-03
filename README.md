@@ -316,6 +316,7 @@ Klinik kararların hekim tarafından denetlenebilmesi için CBAM ve Transformer 
 ## 📂 Proje Dizin Yapısı
 
 ```bash
+├── EKG-Tarayici_PDR.pdf   # Proje Detay Raporu
 ├── augment.py             # Veri artırma (Gürültü, Baseline Wander, Genlik, Shift)
 ├── dataset.py             # HDF5 destekli PyTorch Dataset implementasyonu
 ├── decision.py            # Temperature scaling, eşik taraması ve Safe-Fail karar mantığı
